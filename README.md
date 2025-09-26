@@ -31,7 +31,7 @@ This project develops an **automated cataract detection system** using ensemble 
 - Ocular fundus images labeled as **Normal** or **Cataract**.  
 - Dataset split into **Training** and **Validation** sets.  
 - **Preprocessing includes:** normalization, resizing, and augmentation.
-  Link - https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
+  https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
 
 ---
 
