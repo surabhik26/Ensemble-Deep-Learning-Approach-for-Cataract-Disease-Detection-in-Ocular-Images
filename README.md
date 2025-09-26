@@ -42,7 +42,7 @@ This project develops an **automated cataract detection system** using ensemble 
 
 **Training Details:**
 - Optimizer: Adam  
-- Loss Function: Categorical Cross-Entropy  
+- Loss Function: Binary Cross-Entropy  
 - Metrics: Accuracy  
 - Batch Size: 32–64  
-- Epochs: 30–50 with Early Stopping  
+- Epochs: with Early Stopping  
